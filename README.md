@@ -1,16 +1,21 @@
-### Hi there 👋
+[![MasterHead](https://www.shareicon.net/data/128x128/2016/11/21/854796_yoda_512x512.png)
+<h1 align="center">Hi 👋, I'm Bulent Ozan</h1>
+<h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-<!--
-**ozanbulent/ozanbulent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozanbulent&label=Profile%20views&color=0e75b6&style=flat" alt="ozanbulent" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **React**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **React,CSS,javascript**
+
+- 📫 How to reach me **ozanbulent@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozanbulent&show_icons=true&locale=en&layout=compact" alt="ozanbulent" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanbulent&show_icons=true&locale=en" alt="ozanbulent" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbulent&" alt="ozanbulent" /></p>

@@ -1,4 +1,3 @@
-[![MasterHead](https://www.shareicon.net/data/128x128/2016/11/21/854796_yoda_512x512.png)
 <h1 align="center">Hi 👋, I'm Bulent Ozan</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
